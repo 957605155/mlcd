@@ -6,7 +6,12 @@
 
     <groupId>com.hp</groupId>
     <artifactId>mlcd</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>mlcd-framework</module>
+        <module>mlcd-framework</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
