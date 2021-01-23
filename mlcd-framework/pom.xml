@@ -17,6 +17,7 @@
         <module>mlcd-swagger</module>
         <module>mlcd-admin-interceptor-service</module>
         <module>mlcd-app-interceptor-service</module>
+        <module>mlcd-captcha-service</module>
     </modules>
 
     <properties>
