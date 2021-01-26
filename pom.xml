@@ -11,6 +11,7 @@
     <modules>
         <module>mlcd-framework</module>
         <module>mlcd-framework</module>
+        <module>mlcd-sys-parent</module>
     </modules>
 
     <properties>
