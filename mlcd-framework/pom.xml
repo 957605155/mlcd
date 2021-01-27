@@ -18,7 +18,6 @@
         <module>mlcd-admin-interceptor-service</module>
         <module>mlcd-app-interceptor-service</module>
         <module>mlcd-captcha-service</module>
-        <module>mlcd-token-strategy-jt</module>
         <module>mlcd-token-strategy-jwt</module>
         <module>mlcd-token-strategy-redis</module>
     </modules>

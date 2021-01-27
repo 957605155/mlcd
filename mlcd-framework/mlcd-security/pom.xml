@@ -19,8 +19,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.mldong</groupId>
-            <artifactId>mldong-common-base</artifactId>
+            <groupId>com.hp</groupId>
+            <artifactId>mlcd-common-base</artifactId>
             <version>${parent.version}</version>
         </dependency>
         <dependency>
