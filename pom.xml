@@ -31,6 +31,7 @@
         <spring-cloud-alibaba.version>2.2.3.RELEASE</spring-cloud-alibaba.version>
         <spring-cloud.version>Hoxton.SR8</spring-cloud.version>
         <kaptcha.version>2.3.2</kaptcha.version>
+        <lombok.version>1.18.12</lombok.version>
     </properties>
 
     <dependencyManagement>
