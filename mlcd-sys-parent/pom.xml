@@ -15,6 +15,9 @@
         <module>mlcd-sys-domain</module>
         <module>mlcd-sys-dubbo</module>
         <module>mlcd-sys-mapi</module>
+        <module>mlcd-sys-portal</module>
+        <module>mlcd-sys-service</module>
+        <module>mlcd-sys-repository</module>
     </modules>
 
     <properties>
