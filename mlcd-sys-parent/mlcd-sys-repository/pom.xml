@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.hp</groupId>
             <artifactId>mlcd-sys-domain</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
