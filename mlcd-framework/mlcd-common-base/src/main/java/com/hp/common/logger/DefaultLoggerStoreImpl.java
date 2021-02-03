@@ -5,7 +5,6 @@ package com.hp.common.logger;
  * @author hp
  */
 
-
 public class DefaultLoggerStoreImpl implements ILoggerStore{
     @Override
     public int save(LoggerModel model) {
