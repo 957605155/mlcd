@@ -19,15 +19,15 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-boot.version>2.3.2.RELEASE</spring-boot.version>
         <spring-boot-admin.version>2.3.0</spring-boot-admin.version>
-        <jwt.version>3.7.0</jwt.version>
-        <com.alibaba.druid.version>1.1.10</com.alibaba.druid.version>
+        <jwt.version>3.10.0</jwt.version>
+        <com.alibaba.druid.version>1.1.22</com.alibaba.druid.version>
         <tk.mybatis.version>4.1.5</tk.mybatis.version>
         <mybatis.spring.boot.starter.version>2.1.0</mybatis.spring.boot.starter.version>
         <mapper.spring.boot.starter.version>2.1.0</mapper.spring.boot.starter.version>
         <pagehelper.spring.boot.starter.version>1.2.12</pagehelper.spring.boot.starter.version>
         <io.springfox-swagger2.version>2.9.2</io.springfox-swagger2.version>
         <swagger-knife.version>2.0.3</swagger-knife.version>
-        <spring-cloud-alibaba.version>2.2.3.RELEASE</spring-cloud-alibaba.version>
+        <spring-cloud-alibaba.version>2.2.1.RELEASE</spring-cloud-alibaba.version>
         <spring-cloud.version>Hoxton.SR8</spring-cloud.version>
         <kaptcha.version>2.3.2</kaptcha.version>
         <lombok.version>1.18.12</lombok.version>
