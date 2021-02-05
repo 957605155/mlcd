@@ -26,6 +26,10 @@ public class ConditionUtil {
 
             }
 
+            /**
+             * test
+             * @throws InterruptedException
+             */
             @Override
             public void awaitUninterruptibly() {
 
