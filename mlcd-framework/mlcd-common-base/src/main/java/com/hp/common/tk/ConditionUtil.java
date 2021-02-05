@@ -17,6 +17,10 @@ public class ConditionUtil {
 
     public static Condition buildCondition(Class<?> clazz, List<?> list){
         return new Condition() {
+            /**
+             * test
+             * @throws InterruptedException
+             */
             @Override
             public void await() throws InterruptedException {
 
