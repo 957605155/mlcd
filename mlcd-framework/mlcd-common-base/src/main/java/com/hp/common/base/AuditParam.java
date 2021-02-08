@@ -9,5 +9,29 @@ public class AuditParam {
     @ApiModelProperty(value="是否通过(1->否,2->是)",required=true)
     @NotNull(message="通过标识不能为空")
     private YesNoEnum pass;
+    
+    public List<Long> getIds() {
+        return ids;
+    }
+
+    public void setIds(List<Long> ids) {
+        this.ids = ids;
+    }
+
+    public String getRejectReason() {
+        return rejectReason;
+    }
+
+    public void setRejectReason(String rejectReason) {
+        this.rejectReason = rejectReason;
+    }
+
+    public YesNoEnum getPass() {
+        return pass;
+    }
+
+    public void setPass(YesNoEnum pass) {
+        this.pass = pass;
+    }
 
 }
