@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.hp</groupId>
             <artifactId>mlcd-common-base</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
     </dependencies>
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mlcd.iml" filepath="$PROJECT_DIR$/mlcd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-admin-interceptor-service/mlcd-admin-interceptor-service.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-admin-interceptor-service/mlcd-admin-interceptor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-app-interceptor-service/mlcd-app-interceptor-service.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-app-interceptor-service/mlcd-app-interceptor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-captcha-service/mlcd-captcha-service.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-captcha-service/mlcd-captcha-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-common-base/mlcd-common-base.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-common-base/mlcd-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-framework.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-security/mlcd-security.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-security/mlcd-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-swagger/mlcd-swagger.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-swagger/mlcd-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-domain/mlcd-sys-domain.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-domain/mlcd-sys-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-dubbo/mlcd-sys-dubbo.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-dubbo/mlcd-sys-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-mapi/mlcd-sys-mapi.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-mapi/mlcd-sys-mapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-parent.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-portal/mlcd-sys-portal.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-portal/mlcd-sys-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-repository/mlcd-sys-repository.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-repository/mlcd-sys-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-service/mlcd-sys-service.iml" filepath="$PROJECT_DIR$/mlcd-sys-parent/mlcd-sys-service/mlcd-sys-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-token-strategy-jwt/mlcd-token-strategy-jwt.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-token-strategy-jwt/mlcd-token-strategy-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mlcd-framework/mlcd-token-strategy-redis/mlcd-token-strategy-redis.iml" filepath="$PROJECT_DIR$/mlcd-framework/mlcd-token-strategy-redis/mlcd-token-strategy-redis.iml" />
+    </modules>
+  </component>
+</project>
