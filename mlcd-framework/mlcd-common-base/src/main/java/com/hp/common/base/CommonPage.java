@@ -33,7 +33,7 @@ public class CommonPage implements Serializable {
      * @param page
      * @return
      */
-    public static <T> CommonPage<T> toPage(Page<T> page) {
+   /* public static <T> CommonPage<T> toPage(Page<T> page) {
         CommonPage<T> result = new CommonPage<T>();
         result.setTotalPage(page.getPages());
         result.setPageNum(page.getPageNum());
@@ -41,7 +41,7 @@ public class CommonPage implements Serializable {
         result.setRecordCount(page.getTotal());
         result.setRows(page.getResult());
         return result;
-    }
+    }*/
 
     public int getPageNum() {
         return pageNum;
