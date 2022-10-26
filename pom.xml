@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-boot.version>2.3.2.RELEASE</spring-boot.version>
         <spring-boot-admin.version>2.3.0</spring-boot-admin.version>
-        <jwt.version>3.10.0</jwt.version>
+        <jwt.version>3.19.3</jwt.version>
         <com.alibaba.druid.version>1.1.22</com.alibaba.druid.version>
         <tk.mybatis.version>4.1.5</tk.mybatis.version>
         <mybatis.spring.boot.starter.version>2.1.0</mybatis.spring.boot.starter.version>
